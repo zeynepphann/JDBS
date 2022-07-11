@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.359">
-    <testcase classname="US1002 Kullanici DB Utils ile database baglantisi yapabilir" name="TC02 Kullanici DB Utils ile database'deki bilgileri okur" time="0.147">
-        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
-            <![CDATA[Given kullanici DBUtils ile HMC veri tabanina baglanir......................undefined
-And kullanici DBUtils ile  "tHOTELROOM" tablosundaki "Price" verilerini alir.skipped
-And kullanici DBUtils ile  "Price" sutunundaki verileri okur................skipped
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="5.454">
+    <testcase classname="US1002 Kullanici DB Utils ile database baglantisi yapabilir" name="TC02 Kullanici DB Utils ile database'deki bilgileri okur" time="5.246">
+        <system-out>
+            <![CDATA[Given kullanici DBUtils ile HMC veri tabanina baglanir......................passed
+And kullanici DBUtils ile  "tHOTELROOM" tablosundaki "Price" verilerini alir.passed
+And kullanici DBUtils ile  "Price" sutunundaki verileri okur................passed
 ]]>
-        </failure>
+        </system-out>
     </testcase>
 </testsuite>
